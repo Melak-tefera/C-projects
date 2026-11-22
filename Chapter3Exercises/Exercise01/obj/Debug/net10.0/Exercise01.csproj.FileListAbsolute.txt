@@ -1,0 +1,28 @@
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.exe
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.deps.json
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.runtimeconfig.json
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.dll
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.pdb
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.AssemblyInfo.cs
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.dll
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\refint\Exercise01.dll
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.pdb
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.genruntimeconfig.cache
+C:\Users\User\Pictures\py\Chapter3Exercises\Exercise01\obj\Debug\net10.0\ref\Exercise01.dll
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.exe
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.deps.json
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.runtimeconfig.json
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.dll
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\bin\Debug\net10.0\Exercise01.pdb
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.AssemblyInfo.cs
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.dll
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\refint\Exercise01.dll
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.pdb
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\Exercise01.genruntimeconfig.cache
+C:\Users\Nano  computech\Desktop\C# projects\Chapter3Exercises\Exercise01\obj\Debug\net10.0\ref\Exercise01.dll
